@@ -1,0 +1,36 @@
+.my-class {
+  margin: 15px;
+  border: 4px solid white;
+  padding: 6px;
+  width: 300px;
+  float: left;
+  background-color: lightblue;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+h1 {
+ text-align: center;
+}
+.my-class1 {
+  margin: 15px;
+  border: 4px solid white;
+  padding: 6px;
+  width: 300px;
+  float: left;
+  background-color: teal;
+}
+.my-class2 {
+  margin: 15px;
+  border: 4px solid white;
+  padding: 6px;
+  width: 300px;
+  float: left;
+  background-color: lightpink;
+}
+
+body {
+  background-color: #42f4c2;
+}
